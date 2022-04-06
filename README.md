@@ -11,7 +11,7 @@ Edge computing is the next big technology trend in 2022. Scott Evers, Enterprise
 3. Predictions about how the Edge market will evolve over the coming years
 
 ## Resources
-- [Session slides]()
+- [Session slides](https://github.com/Scott-Evers/edge_social_hub/blob/main/resources/Living%20on%20the%20Edge%20of%20Tomorrow.pdf)
 
 # Social Interaction
 - [LinkedIn group](https://www.linkedin.com/groups/12649532/)
